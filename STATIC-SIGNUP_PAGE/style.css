@@ -1,5 +1,5 @@
 body{
-    background-image: url(Screenshot\ \(86\).png);
+    background-image: url(R.jpeg);
     background-repeat: no-repeat;
     background-attachment:fixed ;
     background-size: cover;
@@ -9,10 +9,10 @@ body{
 }
 .container{
     margin: 8% auto;
-    margin-left: 60%;
+    margin-left: 
     padding: 20px;
     box-sizing: border-box;
-    border: 2px solid;
+    border: 0;
 }
 
 h3{
@@ -84,6 +84,7 @@ button{
     font-weight: bold;
     font-size: 18px;
     font-family: 'Times New Roman', Times, serif;
+    text-shadow: 3px 3px 5px rgba(63, 55, 55, 0.5) ;
     border-radius: 25px;
     cursor: pointer;
     padding: 10px;
